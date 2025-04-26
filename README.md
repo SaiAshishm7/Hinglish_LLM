@@ -67,7 +67,6 @@ This way, the model learns to reply just like a real assistant in Hinglish. I ke
 If I was using this for real, I'd:
 - **Ask friends to chat with the bot** and see if the replies make sense and sound natural (human review).
 - **Check for mistakes** like wrong language, weird answers, or not following the prompt.
-- Maybe later, use some automatic checks (like BLEU score or accuracy), but for now, just reading the answers is enough for me.
 
 ---
 
